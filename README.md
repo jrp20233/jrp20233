@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jrp20233
+- 👀 I’m interested in python , swift
+- 🌱 I’m currently learning swift
